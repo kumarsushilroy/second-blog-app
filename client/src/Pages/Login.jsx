@@ -42,7 +42,7 @@ const Login = () => {
       <div className="border w-[400px] p-6  mx-auto mt-40">
         <form onSubmit={handleSubmit}>
           <h1 className="text-center font-bold font-mono text-5xl">
-           firstt Login Form 
+           firstt Login Form m
           </h1>
      <p>Lorem ipsum dolor sit amet.</p>
           <div className="my-3">
