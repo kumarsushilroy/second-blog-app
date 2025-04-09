@@ -44,7 +44,7 @@ const Login = () => {
           <h1 className="text-center font-bold font-mono text-5xl">
            firstt Login Form m
           </h1>
-     <p>Lorem ipsum dolor sit amet.</p>
+     
           <div className="my-3">
             <input
               type="text"
