@@ -41,10 +41,10 @@ const Login = () => {
     <div className="mt-10 ml-10">
       <div className="border w-[400px] p-6  mx-auto mt-40">
         <form onSubmit={handleSubmit}>
-          <h1 className="text-center font-bold font-mono text-2xl">
-           firstt Login Form
+          <h1 className="text-center font-bold font-mono text-5xl">
+           firstt Login Form 
           </h1>
-
+     <p>Lorem ipsum dolor sit amet.</p>
           <div className="my-3">
             <input
               type="text"
