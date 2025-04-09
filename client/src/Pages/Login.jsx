@@ -39,10 +39,10 @@ const Login = () => {
 
   return (
     <div className="mt-10 ml-10">
-      <div className="border w-[400px] p-6  mx-auto mt-40 bg-yellow-300">
-        <form onSubmit={handleSubmit} >
-          <h1 className="text-center font-bold font-mono text-5xl text-green-400">
-            Login plzgm
+      <div className="border w-[400px] p-6  mx-auto mt-40">
+        <form onSubmit={handleSubmit}>
+          <h1 className="text-center font-bold font-mono text-5xl">
+           firstt Login Form m
           </h1>
      
           <div className="my-3">
