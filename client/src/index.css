@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.spinner{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: rgb(205, 153, 205);
+}
+
+.active{
+    text-decoration: underline;
+    
+    
+}
