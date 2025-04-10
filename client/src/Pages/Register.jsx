@@ -34,7 +34,7 @@ const Register = () => {
     <div className='w-full h-full '>
         <div className='border w-[400px] p-6  mx-auto mt-40'>
             <form onSubmit={handleSubmit}>
-                <h1 className='text-center font-bold font-mono text-2xl'>Register</h1>
+                <h1 className='text-center font-bold font-mono text-2xl'>Register First</h1>
                 <div className='my-3'>
                     <input type="text" onChange={(e)=>setusername(e.target.value)} placeholder='Username' className='w-full  border-b outline-none p-2' />
                 </div>
