@@ -42,7 +42,7 @@ const Login = () => {
       <div className="border w-[400px] p-6  mx-auto mt-40 bg-yellow-300">
         <form onSubmit={handleSubmit} className="">
           <h1 className="text-center font-bold font-mono text-3xl">
-           Plz Login
+            Login plzz
           </h1>
      
           <div className="my-3">
